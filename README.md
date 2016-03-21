@@ -1,5 +1,5 @@
 # UcanMadur
-UcanMadur is Flappy Birds Clone Game Project. It's GameMaker Project.
+UcanMadur is Flappy Birds Clone Game Project. Developed on GameMaker Studio. It's so simple. 
 
 Developed project on GameMaker Studio
 
